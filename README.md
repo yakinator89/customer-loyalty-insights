@@ -1,1 +1,1 @@
-# earthquake-interactive-dashboard
+# customer-loyalty-insights
